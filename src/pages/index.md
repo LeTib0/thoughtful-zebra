@@ -108,7 +108,7 @@ sections:
           In exchange for visibility, RFTs will be given as a reward in partner
           AMMs
       - content: >
-          ##### Management project
+          ### Management project **10%**
 
 
           In order to carry the project as far as possible, these RFTs will be
