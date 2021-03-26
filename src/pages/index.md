@@ -18,7 +18,7 @@ sections:
           to participate to this incredible DEFI ecosystem that will soon take
           off.***
         actions:
-          - label: Start learning
+          - label: BUY RFT
             url: /thank-you
             style: primary
             has_icon: true
