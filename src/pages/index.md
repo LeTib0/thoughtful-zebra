@@ -59,7 +59,7 @@ sections:
     image_alt: Marketing Playbook preview
     media_position: left
     media_width: fourty
-    align: left
+    align: center
     padding_top: large
     padding_bottom: large
     background_color: none
