@@ -142,7 +142,7 @@ sections:
   - type: features_section
     features:
       - title: Coming soon
-        subtitle: 'Step 2: Objectif'
+        subtitle: 'Step 2: Objective Moon'
         content: |-
           **Marketing in the real world** is very different than what we learn
           at school. If you've recently graduated and are making your first
