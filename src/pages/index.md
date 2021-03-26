@@ -29,14 +29,8 @@ sections:
   - type: features_section
     features:
       - subtitle: How this book will teach you real world marketing
-        content: |-
-          - All you need to know about PPC
-          - How to create a brand that sells
-          - Putting together a multi-channel marketing plan
-          - Tracking, attribution and analytics
-          - Analyzing your competitors
-          - Marketing ads no one can ignore
-          - The social media of today
+        content: |
+          Sale 1: Launch Pad 
         actions:
           - label: Start learning
             url: /thank-you
