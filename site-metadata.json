@@ -12,7 +12,7 @@
         "primary_nav_links": [
             {
                 "label": "Pre-Sale",
-                "url": "/pricing",
+                "url": "#PreSale",
                 "style": "link"
             },
             {
