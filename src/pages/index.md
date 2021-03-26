@@ -7,7 +7,8 @@ sections:
       DEFI ecosystem. Buy Rocket Finance Token and let's go to the moon. First
       come, First served !
 
-       Are you ready ? Take-off soon !!!
+
+      Are you ready ? Lift-off soon !!!
     actions:
       - label: Buy Now
         url: /pricing
