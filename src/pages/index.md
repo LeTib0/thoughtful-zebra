@@ -30,7 +30,7 @@ sections:
     features:
       - subtitle: How this book will teach you real world marketing
         content: |
-          #### **Step 1 { Launchpad }:** Early Adopter Sale
+          #### **Step 1 "Launchpad":** Early Adopter Sale
 
           ***
         actions:
