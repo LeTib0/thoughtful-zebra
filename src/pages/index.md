@@ -35,8 +35,6 @@ sections:
 
           ##### Total Supply: 8 000 000
 
-          ##### Mintable: NO
-
           ##### Token Distribution:
 
           *   DX Launch 50 % (Sale and Panecake Liquidity)
