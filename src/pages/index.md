@@ -77,9 +77,9 @@ sections:
 
           ###### RFT
       - content: |
-          #### Token Decimal
+          #### Total Supply
 
-          ###### 18
+          ###### 8 00 0000
       - content: |
           #### Token Decimal
 
