@@ -97,11 +97,10 @@ sections:
 
           It is planned to open farming offers paid in RFT on 3 to 6 peers
           including RFT (RFT/BTC, RFT/ETH, RFT/BUSD....) and to pay them in RFT.
-      - content: |-
-          ### The Truth About Branding
+      - content: |
+          ### Staking **10%**
 
-          A brand is merely a collection of touchpoints between your company and
-          your customers. Learn how to make those interactions count.
+          An RFT staking pool paid in RFT will be opened on valuedefi.io
       - content: |-
           ### Content is King
 
