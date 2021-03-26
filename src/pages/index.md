@@ -37,15 +37,15 @@ sections:
 
           ##### Token Distribution:
 
-          *   DX Launch 50 % (Sale and Panecake Liquidity)
+          *   DX Launch** 50 %** (Sale and Panecake Liquidity)
 
-          *   Farming Partnership  30 %
+          *   Farming Partnership  **30 %**
 
-          *   Stacking Pool 10%
+          *   Stacking Pool **10%**
 
-          *   Marketing Usage 8%
+          *   Marketing Usage **8%**
 
-          *   Team 2%
+          *   Team **2%**
         actions:
           - label: Start learning
             url: /thank-you
