@@ -4,11 +4,11 @@ sections:
   - type: hero_section
     subtitle: 'First come, First served !!!'
     content: >
-      **Be the first to participate in the creation of an innovative DEFI
-      ecosystem.**
+      Be the first to participate in the creation of an innovative DEFI
+      ecosystem.
 
 
-      **Are you ready ? Take-off soon !!!**
+      Are you ready ? Take-off soon !!!
     actions:
       - label: Buy Now
         url: /pricing
