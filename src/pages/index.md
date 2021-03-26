@@ -31,13 +31,22 @@ sections:
     align: center
     background_color: none
   - type: hero_section
-    content: >
-      Be the first to participate in the creation of an incredible innovative
-      DEFI ecosystem. Buy Rocket Finance Token and let's go to the moon. First
-      come, First served !
+    content: |
+      ####  - Presale Price: 0.0001 BNB
 
+      ####  - Swap Listing Price: 0.0003 BNB
 
-      Are you ready ? Take-off soon !!!
+      ####  - Soft Cap: 30 BNB 
+
+      ####  - Hard Cap: 300 BNB
+
+      ####  - Min Contribution: 0.1 BNB
+
+      ####  - Max Contribution: 15  BNB
+
+      ####  - Presale Start: 
+
+      ####  - Presale end: 
     actions:
       - label: Buy Now
         url: /pricing
