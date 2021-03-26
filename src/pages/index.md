@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: features_section
     features:
-      - title: Welcome to Rocket Finance
+      - title: Rocket Finance
         subtitle: How you'll implement what you learn
         content: |-
           - Multi-channel marketing plan tutorials
