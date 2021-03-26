@@ -48,7 +48,6 @@
         "primary_nav_title": "Company",
         "primary_nav_links": [
             {
-                "label": "Story",
                 "url": "/story",
                 "style": "link"
             },
