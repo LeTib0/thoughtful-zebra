@@ -67,7 +67,7 @@ export default class Feature extends React.Component {
                 			}
                 		</div>
                         )}
-                        </div>
+                     </div>
                 </div>
             </React.Fragment>
         );
