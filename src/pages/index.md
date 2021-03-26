@@ -67,7 +67,8 @@ sections:
     features:
       - title: "“Shoot for the moon\_ You might get there”"
         subtitle: Buzz Aldrin
-        image: images/free-image-resizer-cropper.png
+        image: >-
+          images/yellow-full-moon-black-background_38013-152-removebg-preview.png
         image_alt: Brandon Guidelines
         media_position: left
         media_width: thirty-three
