@@ -65,7 +65,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: “Shoot for the moon”
+      - title: “Shoot for the moon; you might get there”
         subtitle: 'Hilary Ouse, Sr. Marketing Manager at Company'
         image: images/hilary-ouse.png
         image_alt: Brandon Guidelines
