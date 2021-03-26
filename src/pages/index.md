@@ -141,7 +141,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: Tokenomics
+      - title: Next Step
         subtitle: 'Brandon Guidelines, Marketing Guru'
         content: |-
           **Marketing in the real world** is very different than what we learn
