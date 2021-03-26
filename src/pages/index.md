@@ -59,7 +59,6 @@ sections:
         media_position: right
         media_width: fifty
         title: Rocket Finance Token
-        subtitle: Information
     feature_padding_vert: small
     align: center
     background_color: none
