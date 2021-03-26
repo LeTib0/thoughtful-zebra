@@ -2,7 +2,6 @@
 title: Home
 sections:
   - type: hero_section
-    subtitle: 'First come, First served !!!'
     content: >
       Be the first to participate in the creation of an incredible innovative
       DEFI ecosystem. Buy Rocket Finance Token and let's go to the moon. Are you
