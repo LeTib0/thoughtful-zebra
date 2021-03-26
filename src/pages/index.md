@@ -28,29 +28,26 @@ sections:
     subtitle: 'Step 1 : Launchpad'
   - type: features_section
     features:
-      - content: |+
+      - content: |
           ##### Name: Rocket Finance Token
 
           ##### Symbol: RFT
 
           ##### Total Supply: 8 000 000
 
-          ##### Mintable: NO 
+          ##### Mintable: NO
 
           ##### Token Distribution:
 
           *   DX Launch 50 % (Sale and Panecake Liquidity)
 
-          *   Farming Partnership  30 % 
+          *   Farming Partnership  30 %
 
           *   Stacking Pool 10%
 
           *   Marketing Usage 8%
 
           *   Team 2%
-
-          #####
-
         actions:
           - label: Start learning
             url: /thank-you
