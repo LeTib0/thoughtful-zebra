@@ -68,12 +68,10 @@ sections:
   - type: grid_section
     title: '- Rocket Finance Token -'
     grid_items:
-      - content: |-
-          #### Marketers
-           - Learn how all of the marketing pieces fit together
-           - Master digital marketing for any business
-           - Get access to marketing gurus and their tips
-           - Prepare killer presentations and collateral
+      - content: |
+          #### Token Name
+
+          *Rocket Finance Token*
       - content: |-
           #### Designers
            - Gain big picture insights that affect design
