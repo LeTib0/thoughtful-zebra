@@ -141,7 +141,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: Next Step
+      - title: Coming soon
         subtitle: 'Brandon Guidelines, Marketing Guru'
         content: |-
           **Marketing in the real world** is very different than what we learn
