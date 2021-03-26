@@ -107,13 +107,12 @@ sections:
 
           In exchange for visibility, RFTs will be given as a reward in partner
           AMMs
-      - content: >-
-          ### Social Media
+      - content: >
+          ##### Management project
 
 
-          Google, Facebook, TikTok, LinkedIn — what should you use, and how? And
-          how do you know that it's actually working? Build a social media
-          strategy like a pro.
+          In order to carry the project as far as possible, these RFTs will be
+          used for marketing, bounty, visibility ...
       - content: |-
           ### Seeing What Works
 
