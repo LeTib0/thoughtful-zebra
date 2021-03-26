@@ -45,7 +45,7 @@ sections:
         image_alt: Look inside Marketing Playbook
         media_position: right
         media_width: fifty
-        title: Sales details
+        title: Tokenomics
     feature_padding_vert: small
     align: center
     background_color: none
