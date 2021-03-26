@@ -76,12 +76,10 @@ sections:
           #### Token Symbol
 
           ###### RFT
-      - content: |-
-          #### Business owners
-           - Kickstart your marketing plan and efforts
-           - Upgrade your brand, website and social media
-           - Prepare effective collateral for your business
-           - Start advertising your company online
+      - content: |
+          #### Token Decimal
+
+          ###### 18
       - content: |-
           #### Product managers
            - Understand the context of your product work
