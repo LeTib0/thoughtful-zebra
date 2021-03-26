@@ -142,7 +142,7 @@ sections:
   - type: features_section
     features:
       - title: Coming soon
-        subtitle: 'Step 2: Launchpad'
+        subtitle: 'Step 2: Objectif'
         content: |-
           **Marketing in the real world** is very different than what we learn
           at school. If you've recently graduated and are making your first
