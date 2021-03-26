@@ -66,7 +66,7 @@ sections:
   - type: features_section
     features:
       - title: "“Shoot for the moon\_ You might get there”"
-        subtitle: 'Hilary Ouse, Sr. Marketing Manager at Company'
+        subtitle: Buzz Aldrin
         image: images/hilary-ouse.png
         image_alt: Brandon Guidelines
         media_position: left
