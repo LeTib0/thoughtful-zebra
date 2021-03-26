@@ -56,8 +56,8 @@ export default class Feature extends React.Component {
                 				<SectionActions {...this.props} actions={_.get(feature, 'actions', null)} />
                 			</div>
                             )}
-                            </div>            	
-                            )}
+                        </div>            	
+                        )}
                             {has_media && (
                 		<div className={classNames('feature__media', 'my-2', 'cell-12', {'cell-md-4': (is_horiz && has_text) && (media_width === 'thirty-three'), 'cell-md-5': (is_horiz && has_text) && (media_width === 'fourty'), 'cell-md-6': (is_horiz && has_text) && (media_width === 'fifty'), 'cell-md-7': (is_horiz && has_text) && (media_width === 'sixty')})}>
                 			{_.get(feature, 'video_embed_html', null) ? (
