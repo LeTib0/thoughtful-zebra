@@ -24,7 +24,7 @@ sections:
     padding_bottom: large
     background_color: none
     title: Early Adopter Sale
-    subtitle: Early Adopter Sale
+    subtitle: Launchpad
   - type: features_section
     features:
       - subtitle: How this book will teach you real world marketing
