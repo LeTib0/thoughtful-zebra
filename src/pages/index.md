@@ -28,7 +28,7 @@ sections:
     subtitle: 'Step 1 : Launchpad'
   - type: features_section
     features:
-      - subtitle: How this book will teach you real world marketing
+      - subtitle: 'Step 1 "Launchpad":'
         content: |
           #### **Step 1 "Launchpad":** Early Adopter Sale
 
