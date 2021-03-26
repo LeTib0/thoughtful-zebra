@@ -32,6 +32,8 @@ sections:
     background_color: none
   - type: hero_section
     content: |
+      |                    |            |
+      |--------------------|------------|
       | Presale Price      | 0.0001 BNB |
       | Swap Listing Price | 0.0003 BNB |
       | Soft Cap           | 30 BNB     |
