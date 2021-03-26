@@ -72,12 +72,10 @@ sections:
           ##### *Token Name*
 
           ###### *Rocket Finance Token*
-      - content: |-
-          #### Designers
-           - Gain big picture insights that affect design
-           - Learn how your design can inspire action
-           - Make advertisements that convert
-           - Create digital assets for the right audience
+      - content: |
+          #### Token Symbol
+
+          ###### RFT
       - content: |-
           #### Business owners
            - Kickstart your marketing plan and efforts
