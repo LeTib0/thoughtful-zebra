@@ -42,7 +42,8 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/book-inside.png
+        image: >-
+          images/space-exploring-rocket-take-off-spaceport-science-cosmodrome-vintage-poster-missile-booster-with-shuttle-board-leaving-earth-cosmos-research-galaxy-exploration-mission-retro-grunge-card_8071-2662.jpg
         image_alt: Look inside Marketing Playbook
         media_position: right
         media_width: fifty
