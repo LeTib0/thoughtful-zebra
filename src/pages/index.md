@@ -163,7 +163,7 @@ sections:
   - type: cta_section
     title: Participate to the Pre-Sale Today
     actions:
-      - label: Get the e-book
+      - label: BUY NOW
         url: /pricing
         style: primary
     actions_position: bottom
