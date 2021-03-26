@@ -54,8 +54,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: >-
-          images/astronaut-research-open-space-rusty-metal-plate-spaceman-galaxy-explorer-flying-starry-sky-earth-planet-orbit-vintage-rust-tin-sign-cosmonaut-outer-cosmos-space-center-retro-poster_8071-1834.jpg
+        image: images/diligent-elm.png
         image_alt: Look inside Marketing Playbook
         media_position: right
         media_width: fifty
