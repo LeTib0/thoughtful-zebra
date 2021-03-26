@@ -60,7 +60,7 @@ export default class HeroSection extends React.Component {
                 				<h1 className="hero__title">{_.get(section, 'title', null)}</h1>
                 				)}
                 				{_.get(section, 'subtitle', null) && (
-                				<h2 className="hero__subtitle"><b>{_.get(section, 'subtitle', null)}</b></H2>
+                				<h2 className="hero__subtitle"><b>{_.get(section, 'subtitle', null)}</b></h2>
                 				)}
                 				{_.get(section, 'content', null) && (
                 				<div className="hero__copy">
