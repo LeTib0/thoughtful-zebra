@@ -101,12 +101,12 @@ sections:
           ### Staking **10%**
 
           An RFT staking pool paid in RFT will be opened on valuedefi.io
-      - content: |-
-          ### Content is King
+      - content: >
+          ### Partnership **5%**
 
-          What you should be writing about, where it should be published, who
-          should read it, and what difference does it make. A comprehensive
-          guide to content marketing.
+
+          In exchange for visibility, RFTs will be given as a reward in partner
+          AMMs
       - content: >-
           ### Social Media
 
