@@ -69,9 +69,9 @@ sections:
     title: '- Rocket Finance Token -'
     grid_items:
       - content: |
-          #### Token Name
+          #### *Token Name*
 
-          *Rocket Finance Token*
+          ***Rocket Finance Token***
       - content: |-
           #### Designers
            - Gain big picture insights that affect design
