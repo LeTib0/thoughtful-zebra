@@ -29,7 +29,9 @@ sections:
   - type: features_section
     features:
       - content: |
-          #### **Step 1 "Launchpad":** Early Adopter Sale
+          #####  - Name: **Rocket Finance Token**
+
+          #####  - Total Suply **: RFT**
 
           ***
         actions:
