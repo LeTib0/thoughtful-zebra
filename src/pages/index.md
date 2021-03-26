@@ -92,7 +92,7 @@ sections:
           create liquidity and an advantageous price for early investors and to
           finance the other phases of the project
       - content: >
-          ### Farming & Partnership  **30 %**
+          Farming **20 %**
 
 
           It is planned to open farming offers paid in RFT on 3 to 6 peers
