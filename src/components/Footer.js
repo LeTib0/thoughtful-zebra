@@ -63,9 +63,7 @@ export default class Footer extends React.Component {
                 	<div className="site-footer__info py-3 py-sm-4">
                 		<div className="container">
                 			<div className="grid items-center">
-                				{footer_content && (
                 				
-                				)}
                 				{footer_social && (
                 				<div className={classNames('site-footer__social', 'cell-12', {'cell-sm-auto': footer_content})}>
                 					{_.map(_.get(this.props, 'pageContext.site.siteMetadata.footer.social_links', null), (link, link_idx) => {
