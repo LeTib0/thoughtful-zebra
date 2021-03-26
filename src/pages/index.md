@@ -13,10 +13,9 @@ sections:
           soon.*
 
 
-          #### *Anyway if you want to join the crew don't hesitate to
-          participate to our launch sale on DxSale and become one of the first
-          to participate to this incredible DEFI ecosystem that will soon take
-          off.*
+          #### Anyway if you want to join the crew don't hesitate to participate
+          to our launch sale on DxSale and become one of the first to
+          participate to this incredible DEFI ecosystem that will soon take off.
         actions:
           - label: BUY NOW
             url: /thank-you
