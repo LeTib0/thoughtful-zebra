@@ -161,7 +161,7 @@ sections:
           analytics methodologies — this guide is the only marketing education
           you'll ever need.
         image: >-
-          images/astronaut-research-open-space-rusty-metal-plate-spaceman-galaxy-explorer-flying-starry-sky-earth-planet-orbit-vintage-rust-tin-sign-cosmonaut-outer-cosmos-space-center-retro-poster_8071-1834.jpg
+          images/space-expedition-retro-poster-with-astronaut-outer-cosmos-shuttle-planets_8071-3784.jpg
         image_alt: Brandon Guidelines Photo
         media_position: right
         media_width: fourty
