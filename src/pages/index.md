@@ -3,10 +3,11 @@ title: Home
 sections:
   - type: hero_section
     subtitle: 'First come, First served !!!'
-    content: |-
-      This book is your go-to guide for all marketing channels. Learn how to
-      create effective landing pages, compelling ads, creative copywriting and
-      converting marketing materials for any business.
+    content: >
+      Be the first to participate in the **creation** of an **i**nnovative DEFI
+      ecosystem.
+
+      Are you **ready** ?? Take-off **soon** !!!
     actions:
       - label: Buy Now
         url: /pricing
