@@ -37,20 +37,6 @@ sections:
           ### Mintable: No
 
           ### Chain: BSC
-
-
-
-          ##### Token Distribution:
-
-          *   DX Launch **50 %** (Sale and Panecake Liquidity)
-
-          *   Farming Partnership  **30 %**
-
-          *   Stacking Pool **10%**
-
-          *   Marketing Usage **8%**
-
-          *   Team **2%**
         actions:
           - label: Start learning
             url: /thank-you
