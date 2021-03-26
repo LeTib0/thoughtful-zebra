@@ -45,6 +45,7 @@ sections:
         media_position: right
         media_width: fifty
         title: 'Step 1 "Launchpad":'
+        subtitle: 'Tokenomics '
     feature_padding_vert: small
     align: center
     background_color: none
