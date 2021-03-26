@@ -125,5 +125,6 @@
         ]
     },
     "title": "Rocket Finance",
-    "domain": "https://thoughtful-zebra-d7cac.netlify.app"
+    "domain": "https://thoughtful-zebra-d7cac.netlify.app",
+    "favicon": "images/perpetual-maple.png"
 }
