@@ -28,8 +28,7 @@ sections:
     subtitle: 'Step 1 : Launchpad'
   - type: features_section
     features:
-      - subtitle: 'Step 1 "Launchpad":'
-        content: |
+      - content: |
           #### **Step 1 "Launchpad":** Early Adopter Sale
 
           ***
