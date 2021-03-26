@@ -69,7 +69,7 @@ sections:
     title: '- Rocket Finance Token -'
     grid_items:
       - content: |
-          ### *Token Name*
+          ##### *Token Name*
 
           ###### *Rocket Finance Token*
       - content: |-
