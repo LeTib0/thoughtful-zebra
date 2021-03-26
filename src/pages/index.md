@@ -72,6 +72,7 @@ sections:
           #### Token Name
 
           ###### Rocket Finance Token
+        content_align: center
       - content: |
           #### Token Symbol
 
