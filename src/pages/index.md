@@ -30,7 +30,7 @@ sections:
     features:
       - subtitle: How this book will teach you real world marketing
         content: |
-          Sale 1: Launch Pad 
+          ## Sale 1: Launchpad
         actions:
           - label: Start learning
             url: /thank-you
