@@ -29,11 +29,10 @@ sections:
   - type: features_section
     features:
       - subtitle: How this book will teach you real world marketing
-        content: |+
-          ### **Step 1 { Launchpad }: **
+        content: |
+          #### **Step 1 { Launchpad }:** Early Adopter Sale
 
-          ****
-
+          ***
         actions:
           - label: Start learning
             url: /thank-you
