@@ -4,7 +4,7 @@ sections:
   - type: features_section
     features:
       - title: Rocket Finance
-        subtitle: Safe DEFI investment on Binance smart chain
+        subtitle: Safe DEFI investment on Binance Smart Chain
         content: |-
           - Multi-channel marketing plan tutorials
           - Brand questionnaire and worksheet
