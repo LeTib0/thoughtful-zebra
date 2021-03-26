@@ -144,14 +144,14 @@ sections:
       - title: Coming soon
         subtitle: 'Step 2: Moon Objective'
         content: >
-          The conquest of the DEFI space will be long and perilous but at the
-          end indecency, glory and success await us.
+          #### The conquest of the DEFI space will be long and perilous but at
+          the end indecency, glory and success await us.
 
 
-          Our Roadmap and our strategy and goals will be unveiled soon.
+          #### Our Roadmap and our strategy and goals will be unveiled soon.
 
 
-          Stay tuned!
+          #### Stay tuned!
         image: >-
           images/space-expedition-retro-poster-with-astronaut-outer-cosmos-shuttle-planets_8071-3784.jpg
         image_alt: Brandon Guidelines Photo
