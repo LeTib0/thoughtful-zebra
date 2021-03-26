@@ -22,7 +22,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
-    title: Early Ad
+    title: Early Adopter Sale
   - type: grid_section
     title: 'Read by marketers at:'
     align: center
