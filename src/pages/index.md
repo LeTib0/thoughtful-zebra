@@ -30,11 +30,15 @@ sections:
   - type: features_section
     features:
       - content: |
-          ### Name: Rocket Finance Token
-
           ### Symbol: RFT
 
           ### Total Supply: 8 000 000
+
+          ### Mintable: No
+
+          ### Chain: BSC
+
+
 
           ##### Token Distribution:
 
