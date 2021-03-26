@@ -91,12 +91,12 @@ sections:
           This will be the only organized token sale, it will serve both to
           create liquidity and an advantageous price for early investors and to
           finance the other phases of the project
-      - content: >-
-          ### Performance Marketing
+      - content: >
+          ### Farming & Partnership  **30 %**
 
 
-          Know your PPC from your CPA and CTR — a quick start guide to
-          performance marketing channels, setups, budgeting and creative.
+          It is planned to open farming offers paid in RFT on 3 to 6 peers
+          including RFT (RFT/BTC, RFT/ETH, RFT/BUSD....) and to pay them in RFT.
       - content: |-
           ### The Truth About Branding
 
