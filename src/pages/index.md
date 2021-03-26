@@ -8,7 +8,7 @@ sections:
       ecosystem.**
 
 
-      **Are you ready ?? Take-off soon !!!**
+      **Are you ready ? Take-off soon !!!**
     actions:
       - label: Buy Now
         url: /pricing
