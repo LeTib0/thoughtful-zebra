@@ -93,7 +93,7 @@ sections:
     grid_gap_vert: large
     align: center
     background_color: primary
-    background_image: images/background.jpg
+    background_image: images/diligent-elm.png
     background_image_repeat: no-repeat
     background_image_size: cover
     background_image_opacity: 10
