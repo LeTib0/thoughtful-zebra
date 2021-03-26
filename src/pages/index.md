@@ -82,6 +82,7 @@ sections:
           #### Total Supply
 
           ###### 8 00 0000
+        content_align: center
       - content: |
           #### Token Decimal
 
