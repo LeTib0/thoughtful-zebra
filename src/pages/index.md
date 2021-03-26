@@ -8,7 +8,7 @@ sections:
       come, First served !
 
 
-      Are you ready ? Lift-off soon !!!
+      Are you ready ? Take-off soon !!!
     actions:
       - label: Buy Now
         url: /pricing
