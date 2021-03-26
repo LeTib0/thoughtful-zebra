@@ -9,11 +9,11 @@ sections:
           #### *Welcome aboard this incredible project.*
 
 
-          #### ***&#xA;**Currently in the launchpad phase we will unveil our
-          roadmap very soon.*
+          #### *Currently in the launchpad phase we will unveil our roadmap very
+          soon.*
 
 
-          #### *&#xA;Anyway if you want to join the crew don't hesitate to
+          #### *Anyway if you want to join the crew don't hesitate to
           participate to our launch sale on DxSale and become one of the first
           to participate to this incredible DEFI ecosystem that will soon take
           off.*
