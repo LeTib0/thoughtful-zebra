@@ -32,21 +32,21 @@ sections:
     background_color: none
   - type: hero_section
     content: |
-      Presale Price: 0.0001 BNB
+      *   Presale Price: 0.0001 BNB
 
-      Swap Listing Price: 0.0003 BNB
+      *   Swap Listing Price: 0.0003 BNB
 
-      Soft Cap: 30 BNB
+      *   Soft Cap: 30 BNB
 
-      Hard Cap: 300 BNB
+      *   Hard Cap: 300 BNB
 
-      Min Contribution: 0.1 BNB
+      *   Min Contribution: 0.1 BNB
 
-      Max Contribution: 15  BNB
+      *   Max Contribution: 15  BNB
 
-      Presale Start:
+      *   Presale Start:
 
-      Presale End:
+      *   Presale End:
     actions:
       - label: Buy Now
         url: /pricing
