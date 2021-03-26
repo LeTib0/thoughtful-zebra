@@ -71,7 +71,7 @@ sections:
       - content: |
           #### *Token Name*
 
-          ***Rocket Finance Token***
+          *Rocket Finance Token*
       - content: |-
           #### Designers
            - Gain big picture insights that affect design
