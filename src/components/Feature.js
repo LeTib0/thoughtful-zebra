@@ -56,6 +56,7 @@ export default class Feature extends React.Component {
                 				<SectionActions {...this.props} actions={_.get(feature, 'actions', null)} />
                 			</div>
                             )}
+                                                    )}
                         </div>            	
 
                             {has_media && (
