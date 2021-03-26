@@ -19,7 +19,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/book-inside-2.png
+        image: images/majestic-coriander.png
         image_alt: Look inside Marketing Playbook
         media_position: left
         media_width: fifty
