@@ -55,7 +55,7 @@ sections:
         icon: arrow-right
         icon_position: right
     image: >-
-      images/astronaut-research-open-space-rusty-metal-plate-spaceman-galaxy-explorer-flying-starry-sky-earth-planet-orbit-vintage-rust-tin-sign-cosmonaut-outer-cosmos-space-center-retro-poster_8071-1834.jpg
+      images/space-exploring-rocket-take-off-spaceport-science-cosmodrome-vintage-poster-missile-booster-with-shuttle-board-leaving-earth-cosmos-research-galaxy-exploration-mission-retro-grunge-card_8071-2662.jpg
     image_alt: Marketing Playbook preview
     media_position: left
     media_width: fourty
