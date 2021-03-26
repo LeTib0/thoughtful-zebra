@@ -6,7 +6,7 @@ sections:
       - title: Rocket Finance
         subtitle: Safe DEFI Investment on Binance Smart Chain
         content: >
-          ##### ***Welcome aboard this incredible project.&#xA;Currently in the
+          #### ***Welcome aboard this incredible project.&#xA;Currently in the
           launchpad phase we will unveil our roadmap very soon.&#xA;Anyway if
           you want to join the crew don't hesitate to participate to our launch
           sale on DxSale and become one of the first to participate to this
