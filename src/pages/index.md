@@ -29,31 +29,6 @@ sections:
     subtitle: 'Step 1 : Launchpad'
   - type: features_section
     features:
-      - content: |
-          ### Symbol: RFT
-
-          ### Total Supply: 8 000 000
-
-          ### Mintable: No
-
-          ### Chain: BSC
-        actions:
-          - label: Start learning
-            url: /thank-you
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/diligent-elm.png
-        image_alt: Look inside Marketing Playbook
-        media_position: right
-        media_width: fifty
-        title: Rocket Finance Token
-    feature_padding_vert: small
-    align: center
-    background_color: none
-  - type: features_section
-    features:
       - title: "“Shoot for the moon\_ You might get there”"
         subtitle: Buzz Aldrin
         image: >-
