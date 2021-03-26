@@ -61,7 +61,7 @@
             }
         ],
         "has_secondary_nav": true,
-        "secondary_nav_title": "Legal",
+        "secondary_nav_title": "Token",
         "secondary_nav_links": [
             {
                 "url": "/terms-conditions",
