@@ -58,7 +58,7 @@ sections:
         image_alt: Look inside Marketing Playbook
         media_position: right
         media_width: fifty
-        title: 'Step 1 "Launchpad":'
+        title: Rocket Finance Token
         subtitle: 'Tokenomics '
     feature_padding_vert: small
     align: center
