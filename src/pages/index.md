@@ -84,11 +84,13 @@ sections:
   - type: grid_section
     title: 'Token Distribution:'
     grid_items:
-      - content: |-
-          ### Know Your Audience
+      - content: >
+          ### *DX Launch ***50 %**
 
-          Discovery, research and pure intuition: How to slice and dice all the
-          information you can gather about your customers.
+
+          This will be the only organized token sale, it will serve both to
+          create liquidity and an advantageous price for early investors and to
+          finance the other phases of the project
       - content: >-
           ### Performance Marketing
 
