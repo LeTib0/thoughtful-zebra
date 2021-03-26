@@ -14,7 +14,7 @@ sections:
         has_icon: true
         icon: arrow-right
         icon_position: right
-    image: images/logo-maker-featuring-a-rocket-powered-vehicle-2851e.png
+    image: images/logo-maker-featuring-a-rocket-powered-vehicle-2851e (1).png
     image_alt: Marketing Playbook preview
     media_position: left
     media_width: fourty
