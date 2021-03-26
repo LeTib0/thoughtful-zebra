@@ -66,7 +66,7 @@ sections:
     title: Early Adopter Sale
     subtitle: 'Step 1 : Launchpad'
   - type: grid_section
-    title: Rocket Finance Token - RFT
+    title: '- Rocket Finance Token -'
     grid_items:
       - content: |-
           #### Marketers
