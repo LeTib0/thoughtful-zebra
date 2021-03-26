@@ -56,7 +56,8 @@ export default class Feature extends React.Component {
                 			<div className={classNames('feature__actions', 'btn-group', {'justify-center': align_x === 'center', 'justify-end': align_x === 'right'})}>
                 				<SectionActions {...this.props} actions={_.get(feature, 'actions', null)} />
                 			</div>
-                			)}
+                            )}
+                            
                 		</div>
                 		)}
                 	</div>
