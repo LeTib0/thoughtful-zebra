@@ -35,7 +35,6 @@ export default class Feature extends React.Component {
             <React.Fragment>
                 <div className={classNames('feature', {'maxw-medium': is_vert, 'mx-auto': is_vert, 'py-0': padding_y === 'small', 'py-1': padding_y !== 'small', 'py-sm-3': padding_y === 'large'})}>
                 	<div className="item__content grid items-center">
-
                 		{has_text && (
                 		<div className={classNames('feature__body', 'my-2', 'cell-12', {'cell-md-8': (is_horiz && has_media) && (media_width === 'thirty-three'), 'cell-md-7': (is_horiz && has_media) && (media_width === 'fourty'), 'cell-md-6': (is_horiz && has_media) && (media_width === 'fifty'), 'cell-md-5': (is_horiz && has_media) && (media_width === 'sixty'), 'order-md-first': has_media && (media_pos === 'right'), 'order-first': has_media && (media_pos === 'bottom'), 'text-center': align_x === 'center', 'text-right': align_x === 'right'})}>
                 			{_.get(feature, 'title', null) && (
