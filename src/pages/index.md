@@ -27,21 +27,6 @@ sections:
     background_color: none
     title: Early Adopter Sale
     subtitle: 'Step 1 : Launchpad'
-  - type: features_section
-    features:
-      - title: "“Shoot for the moon\_ You might get there”"
-        subtitle: Buzz Aldrin
-        image: >-
-          images/yellow-full-moon-black-background_38013-152-removebg-preview.png
-        image_alt: Brandon Guidelines
-        media_position: left
-        media_width: thirty-three
-    feature_padding_vert: small
-    background_color: primary
-    background_image: images/yellow-full-moon-black-background_38013-152.jpg
-    background_image_repeat: no-repeat
-    background_image_size: cover
-    background_image_opacity: 10
   - type: grid_section
     title: 'Token Distribution:'
     grid_items:
