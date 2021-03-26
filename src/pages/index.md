@@ -76,6 +76,7 @@ sections:
           #### Token Symbol
 
           ###### RFT
+        content_align: center
       - content: |
           #### Total Supply
 
