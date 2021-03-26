@@ -85,7 +85,7 @@ sections:
     title: 'Token Distribution:'
     grid_items:
       - content: >
-          ### *DX Launch ***50 %**
+          ### DX Launch **50 %**
 
 
           This will be the only organized token sale, it will serve both to
