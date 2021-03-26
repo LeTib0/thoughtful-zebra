@@ -143,23 +143,15 @@ sections:
     features:
       - title: Coming soon
         subtitle: 'Step 2: Moon Objective'
-        content: |-
-          **Marketing in the real world** is very different than what we learn
-          at school. If you've recently graduated and are making your first
-          steps in the business, it's imperative that you know how to use the
-          tools and tricks of the trade.
+        content: >
+          The conquest of the DEFI space will be long and perilous but at the
+          end indecency, glory and success await us.
 
 
-          > **The world of marketing has changed dramatically in the last 10
-          years. Those who understand it, will succeed. But those who stay
-          behind, will have a lot to catch up on.”**
+          Our Roadmap and our strategy and goals will be unveiled soon.
 
 
-          In this book I will teach you everything I know about B2B marketing.
-          From branding, marketing planning, content creation, SEO and PPC, to
-          segmenting your audience and understanding today's metrics and
-          analytics methodologies — this guide is the only marketing education
-          you'll ever need.
+          Stay tuned!
         image: >-
           images/space-expedition-retro-poster-with-astronaut-outer-cosmos-shuttle-planets_8071-3784.jpg
         image_alt: Brandon Guidelines Photo
